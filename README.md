@@ -74,6 +74,3 @@ The supplementary audit previously reported **zero exact synthetic duplicates** 
 
 Tasin et al. (2023), diabetes prediction using machine learning, *Healthcare Technology Letters*. DOI: https://doi.org/10.1049/htl2.12039
 
-## Submission note
-
-The final report is the primary account of the methods and results. If the supplementary experiment is discussed in the report, it must be clearly identified as an additional experiment; the original synthetic experiment's results must remain unchanged.
